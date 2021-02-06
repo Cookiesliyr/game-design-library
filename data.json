@@ -239,4 +239,34 @@
         "tags": ["RPG", "CRPG", "JRPG", "formulas", "dragons quest", "final fantasy"],
         "blurb": "A look at how Final Fantasy and Dragon's Quest calculate damage, and how that affects everything from keeping monsters in play to character growth. Includes some useful questions to ask yourself when developing your own formulas."
     }
+    {
+        "title": "How to Use State Machines to Control Behavior and Animations in Phaser",
+        "url": "https://gamedevacademy.org/how-to-use-state-machines-to-control-behavior-and-animations-in-phaser/#Hero_states",
+        "tags": ["Unity", "State Machines", "System", "Animation"],
+        "blurb": "An extensive tutorial on how to use state machine"
+    }
+    {
+        "title": "2D Animation Methods in Unity",
+        "url": "https://www.gamasutra.com/blogs/JoeStrout/20150807/250646/2D_Animation_Methods_in_Unity.php",
+        "tags": ["Unity", "Animation System", "state machine"],
+        "blurb": "A helpful tutorial to make your own animation system in Unity"
+    }
+    {
+        "title": "The 12 principles of animation in video games ",
+        "url": "https://www.gamasutra.com/view/news/342457/The_12_principles_of_animation_in_video_games.php",
+        "tags": ["Animation", "theory"],
+        "blurb": "A video game adoptation of The 12 basic principles of animation from (The Illusion of Life: Disney Animation) by Frank Thomas"
+    }
+    {
+        "title": "My First 2D Pixel Shader(s)",
+        "url": "https://gmjosack.github.io/posts/my-first-2d-pixel-shaders-part-1/",
+        "tags": ["MonoGame", "XNA", "Shader"],
+        "blurb": "An excelent and clear HLSL shader tutorial"
+    }
+    {
+        "title": "We Compiled A Mega-List of Tutorials in Game Design (For the Technical & Creative Teams)",
+        "url": "https://www.gamedesigning.org/learn/tutorials/",
+        "tags": ["Game Design", "Art", "Tutorial", "List"],
+        "blurb": "50 different lists of tutorials, advices and tips in different areas of game dev"
+    }
 ]
